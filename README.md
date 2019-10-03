@@ -7,7 +7,7 @@ Nhóm các bạn trẻ, và không còn trẻ, cùng nhau đọc `Structure and 
 ## Tham gia và thời gian
 Khi quyết định tham gia vào nhóm, mỗi người cam kết với bản thân theo đúng lịch trình đã đề ra.
 
-Sách có 5 chương, mỗi tháng đọc và hoàn tất các bài tập 1 chương. Tháng cuối cùng cùng nhau xây dựng 1 project. Thời gian bắt đầu từ ngày 3 tháng 10 năm 2019, kết thúc vào ngày 31 tháng 3 năm 2020..Cụ thể như sau:
+Sách có 5 chương, mỗi tháng đọc và hoàn tất các bài tập 1 chương. Tháng cuối cùng cùng nhau xây dựng 1 project. Thời gian bắt đầu từ ngày 3 tháng 10 năm 2019, kết thúc vào ngày 31 tháng 3 năm 2020. Cụ thể như sau:
 - [ ] Tháng 10 năm 2019: Chương 1 - Building Abstractions with Procedures
 - [ ] Tháng 11 năm 2019: Chương 2 - Building Abstractions with Data
 - [ ] Tháng 12 năm 2019: Chương 3 - Modularity, Objects, and State
@@ -19,7 +19,7 @@ Sách có 5 chương, mỗi tháng đọc và hoàn tất các bài tập 1 chư
 Nhóm hiện tại gồm có 6 thành viên, bao gồm:
 - Duy Đỗ (@duydo)
 - Nhâm Lê (@nhamlh)
-- Doan Nguyễn
+- Doan Lương
 - Phúc Nguyễn
 - Sang Nguyễn
 - Sơn Trần
