@@ -29,6 +29,10 @@ Nhóm hiện tại gồm có 6 thành viên, bao gồm:
 ### Sách
 - https://mitpress.mit.edu/sites/default/files/sicp/index.html
 - https://github.com/sarabander/sicp
+- For e-ink readers: https://github.com/tuxu/sicp-epub-svgmath
+
+## Assignments
+- https://mitpress.mit.edu/sites/default/files/sicp/psets/index.html
 
 ### Links
 - https://xuanji.appspot.com/isicp/index.html
