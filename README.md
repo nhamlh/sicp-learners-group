@@ -21,7 +21,7 @@ Nhóm hiện tại gồm có 6 thành viên, bao gồm:
 - Nhâm Lê (@nhamlh)
 - Doan Lương
 - Phúc Nguyễn
-- Sang Nguyễn
+- Sang Võ(@nowf)
 - Sơn Trần
 
 ## Tài nguyên
